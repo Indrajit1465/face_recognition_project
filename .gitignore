@@ -1,0 +1,17 @@
+# virtual environment
+myvenv/
+.venv/
+
+# face data
+known_face/
+*.npy
+
+# python cache
+__pycache__/
+*.pyc
+*.pyd
+
+# large/binary files
+*.whl
+*.tar.gz
+*.zip
